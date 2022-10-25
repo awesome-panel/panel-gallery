@@ -45,7 +45,9 @@ authors = [
 
 [project.optional-dependencies]
 dev = [
-    "awesome-panel-cli[dev]"
+    "awesome-panel-cli[dev]",
+    "types-Markdown",
+    "types-PyYAML",
 ]
 examples = [
     "awesome-panel-cli",

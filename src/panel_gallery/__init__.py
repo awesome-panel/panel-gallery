@@ -1,2 +1,5 @@
 """This package provides ..."""
-VERSION = "0.0.0"
+
+from panel_gallery.fast.fast_gallery_template import FastGalleryTemplate
+
+VERSION = "0.1.0"
